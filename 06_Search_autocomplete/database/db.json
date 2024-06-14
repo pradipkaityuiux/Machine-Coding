@@ -1,0 +1,130 @@
+{
+    "posts":[
+        {
+            "id": 1,
+            "title": "Understanding Javascript Hoisting",
+            "description": "A comprehensive guide on Javascript Hoisting. Learn how variable and function declarations are moved to the top of their containing scope.",
+            "author": "Jane Doe",
+            "published_date": "2023-01-15"
+        },
+        {
+            "id": 2,
+            "title": "Mastering React Hooks",
+            "description": "Dive deep into React Hooks and understand how to manage state and side effects in functional components with ease.",
+            "author": "John Smith",
+            "published_date": "2023-02-10"
+        },
+        {
+            "id": 3,
+            "title": "An Introduction to Vue.js",
+            "description": "Get started with Vue.js and build interactive web applications. This guide covers the basics and core concepts of Vue.",
+            "author": "Emily Johnson",
+            "published_date": "2023-03-05"
+        },
+        {
+            "id": 4,
+            "title": "CSS Grid Layout: A Complete Guide",
+            "description": "Learn about CSS Grid Layout and how it revolutionizes web design. This guide covers all the essential concepts.",
+            "author": "Michael Brown",
+            "published_date": "2023-04-20"
+        },
+        {
+            "id": 5,
+            "title": "State Management in Vue with Vuex",
+            "description": "Explore state management in Vue applications using Vuex. This article covers the core principles and patterns.",
+            "author": "Sarah Davis",
+            "published_date": "2023-05-18"
+        },
+        {
+            "id": 6,
+            "title": "Async Programming in JavaScript",
+            "description": "Understand asynchronous programming in JavaScript, including callbacks, promises, and async/await syntax.",
+            "author": "Chris Wilson",
+            "published_date": "2023-06-12"
+        },
+        {
+            "id": 7,
+            "title": "Building REST APIs with Node.js",
+            "description": "Learn how to build robust and scalable REST APIs using Node.js and Express. This guide covers the fundamentals.",
+            "author": "Jessica Lee",
+            "published_date": "2023-07-01"
+        },
+        {
+            "id": 8,
+            "title": "Advanced CSS Techniques",
+            "description": "Take your CSS skills to the next level with these advanced techniques. Learn about animations, transitions, and more.",
+            "author": "David Martinez",
+            "published_date": "2023-07-25"
+        },
+        {
+            "id": 9,
+            "title": "Understanding the Virtual DOM",
+            "description": "Dive into the concept of the Virtual DOM and how it enhances the performance of modern web applications.",
+            "author": "Sophia Anderson",
+            "published_date": "2023-08-14"
+        },
+        {
+            "id": 10,
+            "title": "React Context API for State Management",
+            "description": "Learn how to use the React Context API for managing state in your applications. This guide covers the basics and beyond.",
+            "author": "William Taylor",
+            "published_date": "2023-09-05"
+        },
+        {
+            "id": 11,
+            "title": "Vue Router: Navigating Your Application",
+            "description": "Explore the Vue Router library and learn how to manage navigation and routing in your Vue.js applications.",
+            "author": "Emma Harris",
+            "published_date": "2023-09-23"
+        },
+        {
+            "id": 12,
+            "title": "JavaScript Event Loop Explained",
+            "description": "Understand the JavaScript Event Loop and how it handles asynchronous operations. This guide simplifies the complex concepts.",
+            "author": "Oliver Clark",
+            "published_date": "2023-10-10"
+        },
+        {
+            "id": 13,
+            "title": "Responsive Web Design with Flexbox",
+            "description": "Learn how to create responsive web designs using CSS Flexbox. This article covers the basics and advanced use cases.",
+            "author": "Isabella Lewis",
+            "published_date": "2023-10-28"
+        },
+        {
+            "id": 14,
+            "title": "Demystifying CSS Grid Layout",
+            "description": "CSS Grid Layout offers a powerful and flexible approach to website layout. This article breaks down the grid system, its properties, and common use cases. Learn how to create complex layouts with ease using CSS Grid and enhance your web design skills.",
+            "author": "Alice Lee",
+            "published_date": "2024-06-08"
+        },
+        {
+            "id": 15,
+            "title": "The Power of Git for Version Control",
+            "description": "Git is a distributed version control system essential for collaborative development. This article covers the basics of Git commands, branching strategies, and managing code history effectively. Learn how to use Git to streamline your development workflow and work seamlessly with others.",
+            "author": "Emily Clark",
+            "published_date": "2024-06-06"
+        },
+        {
+            "id": 16,
+            "title": "Building Accessible Websites with WCAG",
+            "description": "Web Content Accessibility Guidelines (WCAG) ensure websites are usable by everyone, regardless of abilities. This article explores the importance of accessibility, WCAG principles, and practical tips for developing accessible websites. Learn how to create inclusive experiences for all users.",
+            "author": "Charles Williams",
+            "published_date": "2024-06-05"
+        },
+        {
+            "id": 17,
+            "title": "Leveraging APIs for Data Integration",
+            "description": "APIs (Application Programming Interfaces) allow applications to communicate and exchange data. This article explains the concept of APIs, their types, and how they can be used to integrate data from external sources into your projects. Discover the power of APIs for building connected and dynamic applications.",
+            "author": "Sarah Miller",
+            "published_date": "2024-06-04"
+        },
+        {
+            "id": 18,
+            "title": "Understanding JavaScript Closures",
+            "description": "Closures are a powerful concept in JavaScript that allows functions to access variables from their outer scope even after the outer function has returned. This article explores how closures work, their benefits, and common use cases. Learn how to leverage closures for effective code organization and data privacy.",
+            "author": "Daniel Garcia",
+            "published_date": "2024-06-03"
+        }
+    ]    
+}

@@ -1,0 +1,57 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+  max-width: 720px;
+  margin: 120px auto;
+}
+.App-header{
+  text-align:center ;
+}
+.App-header h1{
+  margin-block: 24px;
+}
+.search-autocomplete {
+  position: relative;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.search-autocomplete input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.search-autocomplete .loader {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  text-align: center;
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.search-autocomplete ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  border-top: none;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.search-autocomplete li {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.search-autocomplete li:hover {
+  background-color: #f0f0f0;
+}
